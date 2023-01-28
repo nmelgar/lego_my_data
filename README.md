@@ -37,5 +37,18 @@ This chart will display the amount of bricks of each color, describing if they a
 
 <hr>
 
-This chart will display the slanted bricks with their corresponding color. The higher the saturation the higher amount of slanted bricks of that color.
+This chart will display and separate all the bricks of the bulk. The criteria is, does the brick have a letter, logo or number? Users will find useful to have bricks without any of these elements on them.
 
+![image](https://raw.githubusercontent.com/nmelgar/lego_my_data/main/result_charts/bar_chart2.png)
+
+<hr>
+
+This heat map will display the slanted bricks with their corresponding color. The higher the saturation the higher amount of slanted bricks of that color.
+
+![image](https://raw.githubusercontent.com/nmelgar/lego_my_data/main/result_charts/heat_map.png)
+
+<hr>
+
+## Conclusion
+
+Customers/users need to know different aspects of the bulks before making a purchase, they will find useful this information to better decide wheter they need or not a specific bulk.
