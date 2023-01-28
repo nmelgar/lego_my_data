@@ -22,3 +22,9 @@ Data visualizations should also answer questions the buyers might have. Some exa
     How many slanted bricks do you have?
     What is the distribution of colors available in your set?
     What is the total area by color?
+
+## Results
+
+There are 100 LEGO bricks in this bulk. It is essential to know how many bricks of each color are contained in the bulk. The following bar chart will allow the user to better decide if he/she need this bulk, or if she/he needs other bulk with more bricks of a different color (e.g. blue bricks).
+
+![image](https://raw.githubusercontent.com/nmelgar/lego_my_data/main/result_charts/bar_chart1.png)
