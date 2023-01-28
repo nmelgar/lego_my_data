@@ -28,3 +28,14 @@ Data visualizations should also answer questions the buyers might have. Some exa
 There are 100 LEGO bricks in this bulk. It is essential to know how many bricks of each color are contained in the bulk. The following bar chart will allow the user to better decide if he/she need this bulk, or if she/he needs other bulk with more bricks of a different color (e.g. blue bricks).
 
 ![image](https://raw.githubusercontent.com/nmelgar/lego_my_data/main/result_charts/bar_chart1.png)
+
+<hr>
+
+This chart will display the amount of bricks of each color, describing if they are normal or tall. Sometimes the user will need more tall bricks than normal ones.
+
+![image](https://raw.githubusercontent.com/nmelgar/lego_my_data/main/result_charts/bar_chart3.png)
+
+<hr>
+
+This chart will display the slanted bricks with their corresponding color. The higher the saturation the higher amount of slanted bricks of that color.
+
